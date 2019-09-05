@@ -1,0 +1,3 @@
+student name: Santino C. Rademaker
+student number: 643463
+student class: HAIT1B
